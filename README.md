@@ -67,3 +67,9 @@
 - [数字币原理详解](http://www.chengxuchu.com/#/Share/%E5%94%A0%E5%94%A0%E5%97%91/%E6%AF%94%E7%89%B9%E5%B8%81%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3?id=%e6%af%94%e7%89%b9%e5%b8%81%e5%8e%9f%e7%90%86%e8%af%a6%e8%a7%a3)
 - [常看的 UP 主](http://www.chengxuchu.com/#/Share/%E5%94%A0%E5%94%A0%E5%97%91/%E5%B8%B8%E7%9C%8B%E7%9A%84UP%E4%B8%BB?id=%e5%b8%b8%e7%9c%8b%e7%9a%84up%e4%b8%bb)
 - [如何高效阅读](https://mp.weixin.qq.com/s/ZJZyZFM4qCjOnz14CVYbmg)
+
+------
+
+
+
+<div  align="center">  <img src="https://cdn.jsdelivr.net/gh/tan45du/photobed@master/赞赏码.2mrhxsmxexa0.png" width = "200px" hight = "200px"/> </div>
