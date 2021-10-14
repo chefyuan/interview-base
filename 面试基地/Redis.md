@@ -2,6 +2,8 @@
 
 <h2 align="center" >Redis</h2>
 
+个人网站：https://www.chengxuchu.com/
+
 <p id="基础知识"></p>
 
 # 1.基础知识
