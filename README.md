@@ -15,7 +15,7 @@
 
 **如果你觉得 Github 加载不稳定的话，可以来我的个人网站进行阅读**
 
-网站地址：www.chengxuchu.com（程序厨拼音）
+网站地址：www.chengxuchu.com
 
 ![www.chengxuchu.com](https://gitee.com/cookchef/test/raw/master/img/%E5%B0%81%E9%9D%A2%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 
