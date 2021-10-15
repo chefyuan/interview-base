@@ -23,9 +23,31 @@
 
 [联系厨子](http://www.chengxuchu.com/#/Exchange/README)
 
-如果你需要加入秋招小队的话，也可以点击上方链接，里面有详细介绍。
+如果你需要加入秋招小队的话，可以扫描下方二维码，回复 校招/社招，该小队不收费，也不会有人发广告，仅仅用作交流，但是希望大家进入时可以备注自身情况，并做一个简短的自我介绍。
 
+<div  align="center">  <img src="https://cdn.jsdelivr.net/gh/tan45du/test@master/美化.1kdnk85ce5c0.png" width = "150px" hight = "150px"/> </div>
 
+另外一些科目的PDF版本我也给大家整理好啦，分为暗色和亮色两个版本，大家可以按需下载，选择阅读
+
+计算机网络
+
+链接: https://pan.baidu.com/s/1-I7wlbarU1II3m6aveV74Q 提取码: wvur
+
+操作系统
+
+链接: https://pan.baidu.com/s/1zqve5yw-m8Mt5Z76C1BvLQ 提取码: i9qe
+
+MySQL
+
+链接: https://pan.baidu.com/s/1BZAGb2trx_2becHqWrN-nA 提取码: g3b3
+
+Redis
+
+链接: https://pan.baidu.com/s/1K0uVZgfOTTP2nE9SgdYn4w 提取码: hqwh
+
+Java高并发
+
+链接: https://pan.baidu.com/s/1I-YHgauI-S355XJaINeupQ 提取码: nfvs
 
 ### <h2 align="center" >面试基地</h2>
 

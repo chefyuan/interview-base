@@ -878,3 +878,5 @@ min-slaves-max-lag
 
 采用链地址法解决冲突，rehash扩容，渐进式rehash，负载因子为大于 1 或 大于 5 的时候进行扩容。
 
+
+
