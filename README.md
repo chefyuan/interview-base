@@ -46,7 +46,7 @@ MySQL
 
 Redis
 
-> 链接: https://pan.baidu.com/s/1zE7-ONwxtWEei06Ytk41Xg 提取码: defo
+> 链接:https://pan.baidu.com/s/1b_licxOPL42_ErZpPfPgUw 提取码:3hbn 
 >
 
 Java高并发
